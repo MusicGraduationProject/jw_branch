@@ -64,6 +64,11 @@
 			path = Music_oUITests;
 			sourceTree = "<group>";
 		};
+		46A177802CD3538200DB7B5F /* Views */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Views;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +144,7 @@
 		467480872CD12C9C00B96C90 /* Music */ = {
 			isa = PBXGroup;
 			children = (
+				46A177802CD3538200DB7B5F /* Views */,
 				4674807F2CD12C9C00B96C90 /* Model */,
 				467480812CD12C9C00B96C90 /* Preview Content */,
 				467480822CD12C9C00B96C90 /* Assets.xcassets */,
@@ -184,6 +190,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				467480252CD12BB300B96C90 /* Music_o */,
+				46A177802CD3538200DB7B5F /* Views */,
 			);
 			name = Music_o;
 			packageProductDependencies = (
